@@ -1,0 +1,15 @@
+# Generated OCR output artifacts (may contain real personal/business data)
+output/
+temp_uploads/
+
+# Generated extraction output
+structured_gst_data.json
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PaddleOCR / PaddleX model cache (downloaded automatically)
+.paddlex/
